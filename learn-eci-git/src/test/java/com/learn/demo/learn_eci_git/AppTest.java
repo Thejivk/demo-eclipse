@@ -1,4 +1,4 @@
-package com.learn.demo.demo_eci_learn;
+package com.learn.demo.learn_eci_git;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
